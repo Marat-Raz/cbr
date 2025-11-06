@@ -1,0 +1,16 @@
+[ {
+  "currencyName" : "Юань",
+  "currencyCode" : "CNY",
+  "exchangeRate" : 11.00,
+  "unit" : 1
+}, {
+  "currencyName" : "Доллар США",
+  "currencyCode" : "USD",
+  "exchangeRate" : 81.00,
+  "unit" : 1
+}, {
+  "currencyName" : "Евро",
+  "currencyCode" : "EUR",
+  "exchangeRate" : 93.00,
+  "unit" : 1
+} ]
